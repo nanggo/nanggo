@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
 
-##
+### I'm curious frontend developer 🧑‍💻
 
 <!--
 **nanggo/nanggo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
