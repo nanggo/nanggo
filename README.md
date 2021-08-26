@@ -1,9 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=nanggo)
+<!-- ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nanggo) -->
 
 ### ✋ 안녕하세요! Hello!
 
 I'm Frontend developer! 👨🏻‍💻
 
+<!-- 
 ## Skills
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -30,6 +32,7 @@ I'm Frontend developer! 👨🏻‍💻
 ![](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+-->
 
 
 
