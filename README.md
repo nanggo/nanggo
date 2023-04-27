@@ -3,11 +3,6 @@
 
 ### [Web developer](https://blog.nanggo.net/about) who pursues minimalism.
 
-- [Blog](https://blog.nanggo.net)
-- [Email](mailto:yamsiri@gmail.com)
-
-
-
 <!--
 ## Skills
 
