@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=nanggo)
 <!-- ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nanggo) -->
 
-### [Web developer](https://blog.nanggo.net/about) who pursues minimalism.
-
+### [Problem Solver](https://blog.nanggo.net/about): Tackling real-world problems
 <!--
 ## Skills
 
