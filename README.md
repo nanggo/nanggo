@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=nanggo)
 <!-- ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nanggo) -->
 
-### Pathfinder
-🔭 문제를 해결해 나가는 과정을 즐기는 소프트웨어 엔지니어입니다.
+## Web developer
+who loves to write and code
 <!--
 ## Skills
 
